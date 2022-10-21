@@ -1,0 +1,10 @@
+{
+  "tabWidth": 4,
+  "useTabs": false,
+"editor.formatOnSave": true,
+"prettier.singleQuote": true,
+"prettier.printWidth": 70,
+"[javascript]": {
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
+}
